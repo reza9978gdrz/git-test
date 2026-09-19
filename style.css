@@ -1,0 +1,13 @@
+body{
+    background-color: blue;
+    background-position: absolute;
+}
+footer{
+    font-size: 23em;
+}
+header{
+    font-size:15em;
+    background-color:yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
